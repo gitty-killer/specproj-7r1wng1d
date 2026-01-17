@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-7r1wng1d"",
-  ""goal"": ""index builder for audit trails"",
-  ""language"": ""node"",
-  ""template"": ""node-api""
+    "name":  "specproj-7r1wng1d",
+    "goal":  "index builder for audit trails",
+    "language":  "node",
+    "template":  "node-api"
 }
